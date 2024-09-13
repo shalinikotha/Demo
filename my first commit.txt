@@ -1,1 +1,2 @@
   echo "Welcome to git class"
+This is the modified file for the second commit
